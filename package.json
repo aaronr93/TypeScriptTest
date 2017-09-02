@@ -1,0 +1,23 @@
+{
+  "name": "krush",
+  "version": "0.0.0",
+  "description": "A secret card game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "krush",
+    "card",
+    "game",
+    "playing",
+    "bid",
+    "trick"
+  ],
+  "author": "Aaron Rosenberger",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^8.0.26",
+    "express": "^4.15.4"
+  }
+}
