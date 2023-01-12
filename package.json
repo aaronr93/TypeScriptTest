@@ -18,6 +18,6 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^8.0.26",
-    "express": "^4.15.4"
+    "express": "^4.18.2"
   }
 }
